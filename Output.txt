@@ -1,0 +1,14 @@
+the possible combinations are:
+[10, 10, 8, 8, 5, 4, 1]
+Combinations with these points: 680
+
+[10, 10, 8, 8, 5, 3, 2]
+Combinations with these points: 56
+
+[10, 10, 8, 8, 4, 4, 2]
+Combinations with these points: 315
+
+[10, 10, 8, 8, 4, 3, 3]
+Combinations with these points: 280
+
+Total combinations:  1331
